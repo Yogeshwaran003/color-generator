@@ -1,0 +1,17 @@
+.outer_container{
+    font-family: sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.outer_container button{
+    padding: 20px 50px;
+    border: 0 none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: rgb(255, 255, 255,0.4);
+    font-weight: bold;
+}
